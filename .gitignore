@@ -10,6 +10,7 @@ __pycache__/
 __pycache__
 */migrations/*
 db.sqlite3
+logs/*
 
 # Distribution / packaging
 .Python
